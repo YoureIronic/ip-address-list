@@ -2,7 +2,7 @@
 ! Description: Brief description of what this list blocks
 ! License: The Unlicense
 ! Last modified: 2025-01-15
-! Expires: 14 days (update frequency)
+! Expires: 6 days (update frequency)
 !
 ! Homepage: https://github.com/YoureIronic/ip-address-list
 ! Licence: https://github.com/YoureIronic/ip-address-list/blob/main/LICENSE
