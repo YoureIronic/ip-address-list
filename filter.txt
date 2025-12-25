@@ -1,9 +1,14 @@
 ! Title: API IP Address List
 ! Description: Brief description of what this list blocks
-! Homepage: https://github.com/YoureIronic/ip-address-list
 ! License: The Unlicense
 ! Last modified: 2025-01-15
-! Expires: 14 days
+! Expires: 14 days (update frequency)
+!
+! Homepage: https://github.com/YoureIronic/ip-address-list
+! Licence: https://github.com/YoureIronic/ip-address-list/blob/main/LICENSE
+! GitHub issues: https://github.com/YoureIronic/ip-address-list/issues
+! GitHub pull requests: https://github.com/YoureIronic/ip-address-list/pulls
+!
 
 ||2ip.io^
 ||am.i.mullvad.net^
